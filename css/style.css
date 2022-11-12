@@ -219,7 +219,7 @@ a:hover {
 
 a:after {
     position: relative;
-    content: "*";
+    content: "";
     margin-left: 0.10em;
     font-size: 80%;
     top: -0.30em;
