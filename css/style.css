@@ -20,7 +20,6 @@ header,header.a{
 		font-size: 100%;
 		margin-left: 7.5rem;
 		margin-right: 7.5rem;
-        margin-bottom: 5rem;
 	}
 }
 @media all and (max-width:840px){
@@ -31,7 +30,6 @@ header,header.a{
 		font-size: 100%;
 		margin-left: 5.5rem;
 		margin-right: 5.5rem;
-        margin-bottom: 3rem;
     }
 }
 @media all and (max-width:760px){
@@ -42,7 +40,6 @@ header,header.a{
 		font-size: 100%;
 		margin-left: 2.5rem;
 		margin-right: 2.5rem;
-        margin-bottom: 2rem;
     }
 }
 @media all and (max-width:580px){
@@ -51,7 +48,7 @@ header,header.a{
 	}
 	body > * {
 		font-size: 100%;
-        margin: 0.7rem 1.5rem 1.5rem 1.5rem;
+        margin: 0.7rem 1.5rem 0rem 1.5rem;
     }
 }
 
@@ -79,6 +76,7 @@ body {
 div.content { 
     display: block; 
     padding: 1rem 0rem 1rem 0;
+    margin-bottom: 5rem;
 }
 
 header {
@@ -95,6 +93,7 @@ footer {
 @media all and (max-width:520px) {
     div.content { 
     	padding: 0;
+        margin-bottom: 3rem;
     }
 }
 
