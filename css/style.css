@@ -1,11 +1,11 @@
-@import 'https://lunfansuo.com/font/faustina/font.css';
+@import 'https://lunfansuo.com/font/robotoslab/font.css';
 
 html, body, li, p {
-	font-family: "Faustina", "Source Han Sans TC", "Noto Sans CJK TC", "Hiragino Sans TC", "Hiragino Sans GB", "Microsoft Jhenghei", "PMingLiU" !important;
+	font-family: "Roboto Slab", "Source Han Sans TC", "Noto Sans CJK TC", "Hiragino Sans TC", "Hiragino Sans GB", "Microsoft Jhenghei", "PMingLiU" !important;
 }
 
 h1, h2, h3, h4, h5, h6, header, header.a {
-	font-family: "Faustina", "Source Han Sans TC", "Noto Sans CJK TC", "Hiragino Sans TC", "Hiragino Sans GB", "Microsoft Jhenghei", "PMingLiU" !important;
+	font-family: "Roboto Slab", "Source Han Sans TC", "Noto Sans CJK TC", "Hiragino Sans TC", "Hiragino Sans GB", "Microsoft Jhenghei", "PMingLiU" !important;
 }
 
 header,header.a{
