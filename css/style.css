@@ -17,9 +17,9 @@ header,header.a{
 		font-size: 17px;
 	}
 	body > * {
-		font-size: 100%;
-		margin-left: 7.5rem;
-		margin-right: 7.5rem;
+		font-size: 110%;
+		margin-left: 5.5rem;
+		margin-right: 5.5rem;
 	}
 }
 @media all and (max-width:840px){
