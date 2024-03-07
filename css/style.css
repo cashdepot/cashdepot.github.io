@@ -1,11 +1,11 @@
-@import 'https://lunfansuo.com/font/ubuntu/font.css';
+@import 'https://lunfansuo.com/font/roboto/font.css';
 
 html, body, li, p {
-	font-family: "Ubuntu", "Aptos", "Source Han Sans TC", "Noto Sans CJK TC", "Hiragino Sans TC", "Hiragino Sans GB", "Microsoft Jhenghei", "PMingLiU" !important;
+	font-family: "Roboto", "Aptos", "Source Han Sans TC", "Noto Sans CJK TC", "Hiragino Sans TC", "Hiragino Sans GB", "Microsoft Jhenghei", "PMingLiU" !important;
 }
 
 h1, h2, h3, h4, h5, h6, header, header.a {
-	font-family: "Ubuntu", "Aptos", "Source Han Sans TC", "Noto Sans CJK TC", "Hiragino Sans TC", "Hiragino Sans GB", "Microsoft Jhenghei", "PMingLiU" !important;
+	font-family: "Roboto", "Aptos", "Source Han Sans TC", "Noto Sans CJK TC", "Hiragino Sans TC", "Hiragino Sans GB", "Microsoft Jhenghei", "PMingLiU" !important;
 }
 
 header,header.a{
