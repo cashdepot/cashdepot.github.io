@@ -1,5 +1,3 @@
-# 輪番所
+# Naduan
 
-這是李袤的個人投資筆記，專注於財經分析，研究市場方向和投資標的。純粹個人使用，用以總結自己在投資過程中，所遇到的問題和心得，希望給自己的投資生涯積累知識，提高能力。
-
-URL: <a href="https://lunfansuo.com">https://lunfansuo.com</a>
+Our script base.
