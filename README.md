@@ -1,3 +1,3 @@
-# Naduan
+# Naduan Financial
 
 Our script base.
