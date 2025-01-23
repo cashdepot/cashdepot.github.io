@@ -1,11 +1,11 @@
-@import 'https://cashdepot.github.io/style/font/ubuntu/font.css';
+@import 'https://cashdepot.github.io/style/font/faustina/font.css';
 
 html, body, li, p {
-	font-family: "Ubuntu", "Noto Sans TC", "Source Han Sans TC", "Noto Sans CJK TC", "Hiragino Sans TC", "Hiragino Sans GB", "Microsoft YaHei", "Microsoft Jhenghei", "PMingLiU" !important;
+	font-family: "Faustina", "Noto Sans TC", "Source Han Sans TC", "Noto Sans CJK TC", "Hiragino Sans TC", "Hiragino Sans GB", "Microsoft YaHei", "Microsoft Jhenghei", "PMingLiU" !important;
 }
 
 h1, h2, h3, h4, h5, h6, header, header.a {
-	font-family: "Ubuntu", "Noto Sans TC", "Source Han Sans TC", "Noto Sans CJK TC", "Hiragino Sans TC", "Hiragino Sans GB", "Microsoft YaHei", "Microsoft Jhenghei", "PMingLiU" !important;
+	font-family: "Faustina", "Noto Sans TC", "Source Han Sans TC", "Noto Sans CJK TC", "Hiragino Sans TC", "Hiragino Sans GB", "Microsoft YaHei", "Microsoft Jhenghei", "PMingLiU" !important;
 }
 
 header,header.a{
