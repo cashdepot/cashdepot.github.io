@@ -1,11 +1,11 @@
-@import 'https://cashdepot.github.io/style/font/notosans/font.css';
+@import 'https://cashdepot.github.io/style/font/aleo/font.css';
 
 html, body, li, p {
-	font-family: "Noto Sans", "Noto Sans TC", "Source Han Sans TC", "Noto Sans CJK TC", "Hiragino Sans TC", "Hiragino Sans GB", "Microsoft YaHei", "Microsoft Jhenghei", "PMingLiU" !important;
+	font-family: "Aleo", "Noto Sans TC", "Source Han Sans TC", "Noto Sans CJK TC", "Hiragino Sans TC", "Hiragino Sans GB", "Microsoft YaHei", "Microsoft Jhenghei", "PMingLiU" !important;
 }
 
 h1, h2, h3, h4, h5, h6, header, header.a {
-	font-family: "Noto Sans", "Noto Sans TC", "Source Han Sans TC", "Noto Sans CJK TC", "Hiragino Sans TC", "Hiragino Sans GB", "Microsoft YaHei", "Microsoft Jhenghei", "PMingLiU" !important;
+	font-family: "Aleo", "Noto Sans TC", "Source Han Sans TC", "Noto Sans CJK TC", "Hiragino Sans TC", "Hiragino Sans GB", "Microsoft YaHei", "Microsoft Jhenghei", "PMingLiU" !important;
 }
 
 header,header.a{
